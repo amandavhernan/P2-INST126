@@ -9,6 +9,7 @@ As the user plays the game, the program will show them how many lifes and which 
 ### From the user's perspective, it will look like this once the program starts: 
 
 You have 10 lives left and you have used the following letters:  
+
 Current word:  - - - - - -
 
 ### And once the user starts guessing letters, it will look like this: 
